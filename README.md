@@ -1,6 +1,6 @@
-##🏥 Healthcare DLT Pipeline Project
-#🧾 Overview
+🏥 Healthcare DLT Pipeline Project
 
+🧾 Overview
 This project demonstrates a comprehensive Delta Live Tables (DLT) pipeline for healthcare data processing, implementing the 🥇🥈🥉 Medallion Architecture.
 The pipeline processes patient admission data with real-time streaming, data quality enforcement, and multi-dimensional analytics 📊.
 
